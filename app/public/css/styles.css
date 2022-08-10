@@ -1,0 +1,21 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  .conainer {
+    width: 95%;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .conainer {
+    width: 95%;
+  }
+}
+@media (min-width: 1200px) {
+  .conainer {
+    width: 1170px;
+  }
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*# sourceMappingURL=styles.css.map */

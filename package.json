@@ -1,0 +1,16 @@
+{
+  "name": "interactive-card-details-form",
+  "version": "1.0.0",
+  "description": "![Design preview for the Interactive card details form coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass app/src/scss/main.scss app/public/css/styles.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dart-sass": "^1.25.0",
+    "sass": "^1.54.3"
+  }
+}

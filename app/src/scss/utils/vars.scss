@@ -1,0 +1,15 @@
+// active input border
+$linearGradient: (
+  "linearGradientFirstColor": hsl(249, 99%, 64%),
+  "linearGradientSecondColor": hsl(278, 94%, 30%),
+);
+// input errors
+$red: hsl(0, 100%, 66%);
+
+// Neutral
+$neutral: (
+  "white": hsl(0, 0%, 100%),
+  "lightGrayishViolet": hsl(270, 3%, 87%),
+  "darkGrayishViolet": hsl(279, 6%, 55%),
+  "veryDarkViolet": hsl(278, 68%, 11%),
+);
